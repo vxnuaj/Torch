@@ -1,5 +1,9 @@
 <img src = 'imgs/pytorch.png'></img>
 
+Carrying the Torch, across η-dimensional manifolds
+
+I'm learning pytorch at this repo, *live* as I go!
+
 # Torch!
 
 ### Index
